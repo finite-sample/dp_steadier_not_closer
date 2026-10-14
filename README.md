@@ -68,3 +68,7 @@ This first release proves the measurement-error decomposition and validates the
 observable implications in simulation. It does not claim to have fitted the full
 latent partially nested multiple-membership model to a Deliberative Poll. That
 requires an audited item/group/control data contract first.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
