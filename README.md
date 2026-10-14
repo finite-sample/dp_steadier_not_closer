@@ -71,4 +71,14 @@ requires an audited item/group/control data contract first.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/stddev](https://github.com/finite-sample/stddev) — Is the public's fickleness the work of a few?
+- [finite-sample/know_gains](https://github.com/finite-sample/know_gains) — Measuring Learning in Informative Processes \(Luskin, Helfer, Sood\)
+- [finite-sample/total_error](https://github.com/finite-sample/total_error) — total error
+- [finite-sample/guess](https://github.com/finite-sample/guess) — Adjust naive estimates of learning for guessing
+- [finite-sample/dp_deliberately](https://github.com/finite-sample/dp_deliberately) — Evidence-linked audits of deliberative processes in R
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
